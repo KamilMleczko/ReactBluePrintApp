@@ -9,6 +9,7 @@ Includes:
 You should use [pnpm](https://pnpm.io/) package manager :
 
 ```
+cd frontend
 pnpm install
 pnpm run dev 
 ```
