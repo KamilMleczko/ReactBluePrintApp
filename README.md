@@ -1,6 +1,7 @@
 # React + Vite blueprint App
 For quick project setup including paths, routes, pages etc.
-Includes:
+
+*Technologies*:
 - Tailwind CSS
 - TypeScript
 - pnpm package manager
